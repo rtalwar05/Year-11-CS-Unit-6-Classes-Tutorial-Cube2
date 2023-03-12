@@ -1,3 +1,5 @@
+NAME: Rhea 
+
 # Year-11-CS-Unit-6-Classes-Tutorial-Cube
 
 Your job is to create one class called Cube.
